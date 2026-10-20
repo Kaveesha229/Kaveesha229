@@ -23,7 +23,7 @@ My portfolio includes mobile robots, robotic manipulation, manufacturing applica
 ## Selected projects
 
 ### Glass bottle inspection
-Final year project exploring bottle crack detection using HOG with SVM, HOG with Random Forest, and ResNet18. The repository includes dataset samples, training code, evaluation results and model comparisons.
+Final year project exploring bottle crack detection using HOG with Logistic Regression, HOG with Random Forest, and ResNet18. The repository includes dataset samples, training code, evaluation results and model comparisons.
 
 <a href="https://github.com/Kaveesha229/Design%2DDevelopment%2Dof%2DVision%2DBased%2DBottle%2Dtype%2DCrack%2Didentification%2Dand%2Drejection%2Dfor%2DGlass%2Dbottles">Explore the inspection project</a>
 
@@ -38,7 +38,7 @@ Team KETHAKARU achieved second place at ROSCO 2025 at KDU. The robot tackled lin
 <a href="https://github.com/Kaveesha229/KDU%2DRosco%2D2025">Explore the competition robot</a>
 
 ### Manufacturing automation
-Practical work on cutter usage monitoring and manufacturing equipment, connecting embedded control with production needs.
+Embedded cutter cycle counting and cover seam ringer automation, including PLC programs, an HMI project and wiring documentation.
 
 <a href="https://github.com/Kaveesha229/Chopper%2Dcut%2Dlife%2Dcounter">Explore the cutter life counter</a> &nbsp; | &nbsp; <a href="https://github.com/Kaveesha229/Cover%2DSeam%2DRinger%2DAutomate">Explore the manufacturing repository</a>
 

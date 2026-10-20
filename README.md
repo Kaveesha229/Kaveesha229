@@ -2,7 +2,7 @@
   <img src="assets/banner.svg" width="100%" alt="Kaveesha Gunawardena | Robotics, Mechatronics and Automation">
 </p>
 
-<p align="center"><strong>passionate in bringing machines to life combining mechanics, electronics, and Programming to solve real-world problems.</strong></p>
+<p align="center"><strong>Passionate in bringing machines to life combining mechanics, electronics, and Programming to solve real-world problems.</strong></p>
 
 ## About me
 

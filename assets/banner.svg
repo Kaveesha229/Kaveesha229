@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 340" role="img" aria-label="Kaveesha Gunawardena. Robotics, Mechatronics, Automation.">
+<defs><linearGradient id="bg" x2="1" y2="1"><stop stop-color="#0b1424"/><stop offset="1" stop-color="#16324a"/></linearGradient><pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse"><path d="M32 0H0V32" fill="none" stroke="#a7d5e8" stroke-opacity=".07"/></pattern></defs>
+<rect width="1200" height="340" rx="16" fill="url(#bg)"/><rect width="1200" height="340" rx="16" fill="url(#grid)"/>
+<rect x="54" y="58" width="44" height="4" fill="#60d6ca"/>
+<text x="54" y="117" fill="#f3f7fb" font-family="Arial, sans-serif" font-size="42" font-weight="700">Kaveesha Gunawardena</text>
+<text x="56" y="163" fill="#7bdfd4" font-family="Arial, sans-serif" font-size="22" letter-spacing="2">ROBOTICS · MECHATRONICS · AUTOMATION</text>
+<text x="56" y="222" fill="#c1cdda" font-family="Arial, sans-serif" font-size="18">Connecting sensing, control and mechanical motion.</text>
+<text x="56" y="286" fill="#8ea8bd" font-family="Arial, sans-serif" font-size="14" letter-spacing="3">ENGINEERING PORTFOLIO</text>
+<g stroke="#69d9cf" fill="none" stroke-linecap="round" stroke-linejoin="round">
+<circle cx="1000" cy="167" r="122" stroke-opacity=".14"/><circle cx="1000" cy="167" r="98" stroke-opacity=".1"/>
+<path d="M903 280H1095" stroke-width="2" stroke-opacity=".4"/>
+<path d="M955 262H1029L1018 237H968Z" fill="#21425a" stroke-width="3"/>
+<path d="M990 237V207L933 158L958 123L1015 174V237" fill="#24485d" stroke-width="4"/>
+<path d="M943 140L1009 71L1035 96L970 164" fill="#24485d" stroke-width="4"/>
+<path d="M1024 83L1082 121" stroke-width="20"/><path d="M1083 120L1099 136L1081 155M1094 113L1111 129L1113 148" stroke-width="5"/>
+<circle cx="954" cy="146" r="21" fill="#12293c" stroke-width="4"/><circle cx="954" cy="146" r="7" fill="#69d9cf" stroke="none"/>
+<circle cx="1023" cy="86" r="15" fill="#12293c" stroke-width="3"/>
+<circle cx="1002" cy="207" r="16" fill="#12293c" stroke-width="3"/>
+</g></svg>
